@@ -40,7 +40,7 @@ class _LoginState extends State<Login> {
       child: Scaffold(
         appBar: AppBar(
           title: const Text(
-            "Log In",
+            "Log In1",
             style: TextStyle(fontWeight: FontWeight.bold, fontSize: 25),
           ),
           backgroundColor: Colors.blue,
